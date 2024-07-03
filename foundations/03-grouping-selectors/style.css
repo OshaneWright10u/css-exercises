@@ -8,3 +8,9 @@
 .element2 {
     background-color: rgb(255, 255, 0);
 }
+
+.element1,
+.element2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times new roman", sans-serif;
+}
